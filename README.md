@@ -21,7 +21,12 @@ Chicago Data Portal Dataset Variables
 ### Table of contents:
 - A. Data Cleaning
 - B. Handling Outliers
-- C. Descriptive Analysis - What pattern in taxi demand become evident when analyzing the pickup community areas between 2016 and 2022? Are there particular community areas experiencing notable increase in taxi demand?
-- D. Descriptive Analysis - How have various factors (competition, unforseen event, internal strategy development) influence taxi demands?
-- E. Regression Analysis - How does the variation in trip duration ('trip seconds') relate to changes in trip miles, the time of day, Month of Year, and the day of the week over the period of 6 years?
+- C. Descriptive Analysis - Q1. What pattern in taxi demand become evident when analyzing the pickup community areas between 2016 and 2022? Are there particular community areas experiencing notable increase in taxi demand?
+- D. Descriptive Analysis - Q2. How have various factors (competition, unforseen event, internal strategy development) influence taxi demands?
+- E. Regression Analysis - Q3. How does the variation in trip duration ('trip seconds') relate to changes in trip miles, the time of day, Month of Year, and the day of the week over the period of 6 years?
 
+### Sample presentation slide
+
+![image](https://github.com/hasongc01/Measuring-Dynamics-of-Chicago-Taxi-Industry/blob/main/Descriptive%20Q1.png)
+![image](https://github.com/hasongc01/Measuring-Dynamics-of-Chicago-Taxi-Industry/blob/main/Descriptive%20Q1%20-%20part%20A.png)
+![image](https://github.com/hasongc01/Measuring-Dynamics-of-Chicago-Taxi-Industry/blob/main/Descriptive%20Q1%20-%20part%20B.png)
